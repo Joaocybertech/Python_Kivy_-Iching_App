@@ -1,0 +1,12 @@
+This App has been built with python and kivy framework. 
+
+It is still an ongoing project, missing features are:
+
+--> translating to english
+--> compiling to android and ios
+--> create explanations and classes of Iching Mei Hua or those who are begginers
+--> create an LLM AI that can interpret aswers
+--> change lines of hexagrams to images instead of using strings
+
+
+If you want to contribute to the project, send me a message at joaocybertech@gmai.com
