@@ -1,4 +1,4 @@
-This App has been built with python and kivy framework. 
+This App has been built with python and kivy framework. In order to run it, you will have to download python and the kivy and kivyMD framework.
 
 It is still an ongoing project, missing features are:
 
